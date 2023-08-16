@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Get Start
 1. Run train `python train-nerf.py --half-resolution`
 
@@ -11,3 +12,7 @@
 # Reference
 1. https://github.com/bmild/nerf
 2. https://github.com/yenchenlin/nerf-pytorch
+=======
+# NeRF
+NeRF
+>>>>>>> 06ef9bb1c5a580006fc19f961e55aafe9b053739
